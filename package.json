@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react-test-renderer": "^18.3.0-next-2cf4352e1-20221011"
   }
 }
